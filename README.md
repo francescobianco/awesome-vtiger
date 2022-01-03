@@ -4,6 +4,7 @@ A curated list of awesome vtiger people, modules, resources, and shiny things. I
 
 - [People](#people)
 - [Modules](#modules)
+- [Automation](#automation)
 
 ## People
 
@@ -13,3 +14,7 @@ A curated list of awesome vtiger people, modules, resources, and shiny things. I
 
 - [VTModuleDesigner](https://github.com/sardoj/VTModuleDesigner) by @sardoj
 - [VTRestfulAPI](https://github.com/sardoj/VTRestfulAPI) by @sardoj
+
+## Automation
+
+- [Unlock CRM](www.unlock-crm.com) - Zapier integration and automation

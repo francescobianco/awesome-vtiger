@@ -1,4 +1,4 @@
-# Awesome __vtiger__
+# Awesome `vtiger`
 
 - [People](#people)
 - [Modules](#modules)
